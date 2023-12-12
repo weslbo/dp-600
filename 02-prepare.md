@@ -166,6 +166,7 @@
   - [Query insights in Fabric data warehousing](https://learn.microsoft.com/en-us/fabric/data-warehouse/query-insights)
   - [Monitor connections, sessions, and requests using DMVs](https://learn.microsoft.com/en-us/fabric/data-warehouse/monitor-using-dmv)
   - [Billing and utilization reporting in Synapse Data Warehouse](https://learn.microsoft.com/en-us/fabric/data-warehouse/usage-reporting)
+  - [Query folding guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/power-query-folding)
 
 - Implement performance improvements in dataflows, notebooks, and SQL
   queries

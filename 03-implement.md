@@ -60,6 +60,7 @@
 
   - [Row-level security (RLS) with Power BI](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-rls)
   - [Row-level security (RLS) guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/rls-guidance)
+  - [USERPRINCIPALNAME()](https://learn.microsoft.com/en-us/dax/userprincipalname-function-dax)
   - [Object level security (OLS)](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-ols?tabs=table)
 
 - Validate row-level security and object-level security

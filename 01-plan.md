@@ -5,7 +5,9 @@
 - Identify requirements for a solution, including components, features,
   performance, and capacity stock-keeping units (SKUs)
 
+  - [Microsoft Fabric concepts and licenses](https://learn.microsoft.com/en-us/fabric/enterprise/licenses)
   - [Power BI guidance documentation](https://learn.microsoft.com/en-us/power-bi/guidance/)
+  - [Power BI Embedded with Microsoft Fabric](https://powerbi.microsoft.com/en-us/blog/power-bi-embedded-with-microsoft-fabric/)
 
 - Recommend settings in the Fabric admin portal
   
@@ -132,6 +134,8 @@
   - [Power BI usage scenarios: Advanced data model management](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-advanced-data-model-management)
   - [Semantic model connectivity with the XMLA endpoint](https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-connect-tools)
   - [Troubleshoot XMLA endpoint connectivity](https://learn.microsoft.com/en-us/power-bi/enterprise/troubleshoot-xmla-endpoint)
+  - [Create perspectives](https://learn.microsoft.com/en-us/analysis-services/tutorial-tabular-1400/as-lesson-8-create-perspectives?view=asallproducts-allversions)
+  - [ALM Toolkit](https://www.sqlbi.com/tools/alm-toolkit/)
 
 - Create and update reusable assets, including Power BI template (.pbit)
   files, Power BI data source (.pbids) files, and shared semantic models
